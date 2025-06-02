@@ -71,7 +71,7 @@ All APIs are tested and documented using Swagger.
 
 1. Clone the project:
    ```bash
-   git clone https://github.com/your-repo/student-management-system
+   git clone https://github.com/StudentManagementSystem/student-management-system
 
 2. Open solution StudentManagement System in Visual Studio.
 
