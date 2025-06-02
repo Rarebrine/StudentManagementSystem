@@ -1,0 +1,80 @@
+@model StudentUI.Models.StudentDto
+@{
+    ViewData["Title"] = "Create Student";
+}
+
+<div class="container d-flex justify-content-center align-items-center" style="min-height: calc(100vh - 72px);">
+    <div class="create-box w-100" style="max-width: 500px;">
+        <h1 class="page-title text-center mb-4">Create Student</h1>
+        
+        <form asp-action="Create" method="post">
+            <div class="form-group mb-3">
+                <label asp-for="FirstName" class="form-label">First Name</label>
+                <input asp-for="FirstName" class="form-control input-dark" />
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="LastName" class="form-label">Last Name</label>
+                <input asp-for="LastName" class="form-control input-dark" />
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Email" class="form-label">Email</label>
+                <input asp-for="Email" class="form-control input-dark" />
+            </div>
+
+            <div class="form-group mb-4">
+                <label asp-for="DateOfBirth" class="form-label">Date of Birth (DD/MM/YYYY)</label>
+                <input asp-for="DateOfBirth" class="form-control input-dark" />
+            </div>
+
+            <div class="d-flex justify-content-between">
+                <button type="submit" class="btn btn-success btn-save">Save</button>
+                <a asp-action="Index" class="btn btn-secondary btn-cancel">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+<style>
+    .page-title {
+        font-size: 2rem;
+        font-weight: 700;
+        color: #f1f5f9;
+    }
+
+    .create-box {
+        background-color: #1e293b;
+        padding: 2rem;
+        border-radius: 12px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    }
+
+    .form-label {
+        color: #cbd5e1;
+        font-weight: 500;
+    }
+
+    .input-dark {
+        background-color: #334155;
+        border: none;
+        color: #f1f5f9;
+    }
+
+        .input-dark::placeholder {
+            color: #94a3b8;
+        }
+
+    .btn-save {
+        font-weight: 600;
+    }
+
+    .btn-cancel {
+        font-weight: 600;
+        color: #f1f5f9;
+    }
+
+        .btn-cancel:hover {
+            background-color: #64748b;
+            color: white;
+        }
+</style>

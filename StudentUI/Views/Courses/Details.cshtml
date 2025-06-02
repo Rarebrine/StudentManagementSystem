@@ -1,0 +1,65 @@
+@model StudentUI.Models.CourseDto
+@{
+    ViewData["Title"] = "Course Details";
+}
+
+<div class="container d-flex justify-content-center align-items-center" style="min-height: calc(100vh - 72px);">
+    <div class="details-box w-100" style="max-width: 600px;">
+        <h1 class="page-title text-center mb-4">Course Details</h1>
+        
+        <dl class="row">
+            <dt class="col-sm-4">ID</dt>
+            <dd class="col-sm-8">@Model.Id</dd>
+
+            <dt class="col-sm-4">Title</dt>
+            <dd class="col-sm-8">@Model.Title</dd>
+
+            <dt class="col-sm-4">Description</dt>
+            <dd class="col-sm-8">@Model.Description</dd>
+
+            <dt class="col-sm-4">Credits</dt>
+            <dd class="col-sm-8">@Model.Credits</dd>
+        </dl>
+
+        <div class="text-center mt-4">
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </div>
+    </div>
+</div>
+<style>
+    .page-title {
+        font-size: 2rem;
+        font-weight: 700;
+        color: #f1f5f9;
+    }
+
+    .details-box {
+        background-color: #1e293b;
+        padding: 2rem;
+        border-radius: 12px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    }
+
+    dl.row dt {
+        font-weight: 600;
+        color: #cbd5e1;
+    }
+
+    dl.row dd {
+        color: #f1f5f9;
+    }
+
+    .btn-secondary {
+        background-color: #334155;
+        color: #f1f5f9;
+        border: none;
+        font-weight: 600;
+        padding: 0.5rem 1rem;
+        border-radius: 6px;
+    }
+
+        .btn-secondary:hover {
+            background-color: #475569;
+            color: #fff;
+        }
+</style>

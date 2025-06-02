@@ -1,0 +1,89 @@
+﻿@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container d-flex justify-content-center align-items-center" style="min-height: calc(100vh - 72px);">
+    <div class="login-box">
+        @if (TempData["Error"] != null)
+        {
+            <div class="error-message">Invalid username or password</div>
+        }
+
+        <form asp-controller="Account" asp-action="Login" method="post">
+            <input type="text" name="Username" placeholder="Username" required />
+            <input type="password" name="Password" placeholder="Password" required />
+            <button type="submit" class="btn btn-login">Login</button>
+        </form>
+
+        <form asp-controller="Account" asp-action="Register" method="get">
+            <button type="submit" class="btn btn-signup">Register</button>
+        </form>
+    </div>
+</div>
+
+<style>
+    .login-box {
+        background-color: #1e293b;
+        padding: 2rem;
+        border-radius: 12px;
+        width: 100%;
+        max-width: 400px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    }
+
+        .login-box input,
+        .btn,
+        .error-message {
+            width: 100%;
+            padding: 0.75rem;
+            margin-bottom: 1rem;
+            border-radius: 8px;
+            font-size: 1rem;
+            box-sizing: border-box;
+        }
+
+        .login-box input {
+            border: none;
+            background-color: #334155;
+            color: #f1f5f9;
+        }
+
+            .login-box input::placeholder {
+                color: #94a3b8;
+            }
+
+    .btn {
+        border: none;
+        font-weight: 600;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+    .btn-login {
+        background-color: #3b82f6;
+        color: white;
+    }
+
+        .btn-login:hover {
+            background-color: #2563eb;
+        }
+
+    .btn-signup {
+        background-color: transparent;
+        color: #f1f5f9;
+        border: 2px solid #64748b;
+    }
+
+        .btn-signup:hover {
+            background-color: #334155;
+        }
+
+    .error-message {
+        background-color: #dc2626;
+        color: white;
+        text-align: center;
+        font-weight: 600;
+        border: none;
+    }
+</style>

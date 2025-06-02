@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|c:\\users\\rareb\\onedrive\\documents\\projects\\studentmanagementsystem\\studentui\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|solutionrelative:studentui\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|c:\\users\\rareb\\onedrive\\documents\\projects\\studentmanagementsystem\\studentui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|solutionrelative:studentui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|c:\\users\\rareb\\onedrive\\documents\\projects\\studentmanagementsystem\\studentui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|solutionrelative:studentui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|c:\\users\\rareb\\onedrive\\documents\\projects\\studentmanagementsystem\\studentui\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|solutionrelative:studentui\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|c:\\users\\rareb\\onedrive\\documents\\projects\\studentmanagementsystem\\studentui\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|solutionrelative:studentui\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|c:\\users\\rareb\\onedrive\\documents\\projects\\studentmanagementsystem\\studentui\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|solutionrelative:studentui\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|c:\\users\\rareb\\onedrive\\documents\\projects\\studentmanagementsystem\\studentui\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|solutionrelative:studentui\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|c:\\users\\rareb\\onedrive\\documents\\projects\\studentmanagementsystem\\studentui\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|solutionrelative:studentui\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|c:\\users\\rareb\\onedrive\\documents\\projects\\studentmanagementsystem\\studentui\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|solutionrelative:studentui\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|c:\\users\\rareb\\onedrive\\documents\\projects\\studentmanagementsystem\\studentui\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|solutionrelative:studentui\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|c:\\users\\rareb\\onedrive\\documents\\projects\\studentmanagementsystem\\studentui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|solutionrelative:studentui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|c:\\users\\rareb\\onedrive\\documents\\projects\\studentmanagementsystem\\studentui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|solutionrelative:studentui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|c:\\users\\rareb\\onedrive\\documents\\projects\\studentmanagementsystem\\studentui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2236BC7B-1859-4EDB-B06C-AC0B1DE764C6}|StudentUI\\StudentUI.csproj|solutionrelative:studentui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentUI\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "StudentUI\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T15:54:35.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Courses\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudentUI\\Views\\Courses\\Details.cshtml",
+              "ToolTip": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Courses\\Details.cshtml",
+              "RelativeToolTip": "StudentUI\\Views\\Courses\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T15:11:04.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentUI\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "StudentUI\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T15:04:14.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentUI\\Views\\Courses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "StudentUI\\Views\\Courses\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T14:41:04.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T15:54:01.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentUI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentUI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T15:52:27.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudentUI\\Views\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "StudentUI\\Views\\Students\\Details.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T15:51:48.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentUI\\Views\\Courses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Courses\\Create.cshtml",
+              "RelativeToolTip": "StudentUI\\Views\\Courses\\Create.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T16:01:59.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentUI\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "StudentUI\\Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T16:05:41.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentUI\\Views\\Courses\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "StudentUI\\Views\\Courses\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T15:58:21.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "StudentUI\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "StudentUI\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T14:35:57.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "StudentUI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "StudentUI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:54:14.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "StudentUI\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\rareb\\OneDrive\\Documents\\Projects\\StudentManagementSystem\\StudentUI\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "StudentUI\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswFYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T21:54:01.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

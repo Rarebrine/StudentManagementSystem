@@ -1,0 +1,91 @@
+﻿@{
+    ViewData["Title"] = "Services";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .home-wrapper {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 2rem;
+    }
+
+    .card-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 2rem;
+        width: 100%;
+        max-width: 700px;
+        animation: fadeIn 0.8s ease;
+    }
+
+    .service-card {
+        background-color: rgba(255, 255, 255, 0.06);
+        backdrop-filter: blur(10px);
+        border: 1px solid rgba(255, 255, 255, 0.12);
+        padding: 2.5rem 1.5rem;
+        border-radius: 16px;
+        text-align: center;
+        font-size: 1.4rem;
+        font-weight: 600;
+        color: #f1f5f9;
+        text-decoration: none;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+        transition: all 0.3s ease;
+    }
+
+        .service-card:hover {
+            background-color: rgba(255, 255, 255, 0.12);
+            transform: scale(1.03);
+            border-color: #38bdf8;
+        }
+
+    body.light .service-card {
+        background-color: rgba(0, 0, 0, 0.03);
+        color: #1e293b;
+        border: 1px solid rgba(0, 0, 0, 0.08);
+    }
+
+        body.light .service-card:hover {
+            background-color: rgba(0, 0, 0, 0.08);
+            border-color: #60a5fa;
+        }
+
+    @@keyframes fadeIn {
+        from
+
+    {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    }
+
+    @@media (max-width: 500px) {
+        .service-card
+
+    {
+        font-size: 1.1rem;
+        padding: 2rem 1rem;
+    }
+
+    }
+</style>
+
+<div class="home-wrapper">
+    <div class="card-container">
+        <a asp-controller="Student" asp-action="Index" class="service-card">
+            Students
+        </a>
+        <a asp-controller="Course" asp-action="Index" class="service-card">
+            Courses
+        </a>
+    </div>
+</div>
