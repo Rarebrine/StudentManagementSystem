@@ -90,10 +90,6 @@ All APIs are tested and documented using Swagger.
 - Implement AuthService with JWT authentication
 - Create a service for managing Enrollments
 
-## 👨‍💻 Group Members
-- Abdul Rafay - 2380220
-- Sibtain Ahmed - 2380252
-- Hashir Masood - 2380243
 
 
 
